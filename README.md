@@ -10,13 +10,15 @@ Stass is a comprehensive, security-first legal practice management system and de
 
 ## System Interface Gallery
 
+<sub>Click any screenshot to open the full-length page.</sub>
+
 ### Practice Dashboards & Operational Activity Feed
 <table><tr>
 <td valign="top" width="50%"><img src="Assets/01-dashboard.png" alt="Fee Earner Personal Dashboard" width="100%"></td>
 <td valign="top" width="50%"><img src="Assets/02-firm-dashboard.png" alt="Firm-Wide Executive Dashboard" width="100%"></td>
 </tr></table>
 <p align="center">
-  <img src="Assets/03-firm-feed.png" alt="Real-Time Firm Activity Feed">
+  <a href="Assets/03-firm-feed.png"><img src="Assets/preview/03-firm-feed.png" alt="Real-Time Firm Activity Feed"></a>
 </p>
 
 - **Fee Earner Personal Dashboard:** Tracks active daily matters, personal billable hour targets versus actuals, urgent tasks due today, upcoming client appointments, and personal financial contributions.
@@ -26,7 +28,7 @@ Stass is a comprehensive, security-first legal practice management system and de
 ### Matter & Case Administration
 <table><tr>
 <td valign="top" width="50%"><img src="Assets/06-matters.png" alt="Legal Matters Register" width="100%"></td>
-<td valign="top" width="50%"><img src="Assets/07-matter-detail.png" alt="Matter Detail and Workspace" width="100%"></td>
+<td valign="top" width="50%"><a href="Assets/07-matter-detail.png"><img src="Assets/preview/07-matter-detail.png" alt="Matter Detail and Workspace" width="100%"></a></td>
 </tr></table>
 
 - **Matters Register:** Filterable index of all active, open, pending, and closed legal matters categorized by matter type (Commercial Property, Litigation, Immigration, Wills & Probate, Corporate) with supervising solicitor tags.
@@ -34,7 +36,7 @@ Stass is a comprehensive, security-first legal practice management system and de
 
 ### Court Calendaring & Task Management
 <table><tr>
-<td valign="top" width="50%"><img src="Assets/04-calendar.png" alt="Court and Appointment Calendar" width="100%"></td>
+<td valign="top" width="50%"><a href="Assets/04-calendar.png"><img src="Assets/preview/04-calendar.png" alt="Court and Appointment Calendar" width="100%"></a></td>
 <td valign="top" width="50%"><img src="Assets/05-tasks.png" alt="Team Task Workspace" width="100%"></td>
 </tr></table>
 
@@ -44,7 +46,7 @@ Stass is a comprehensive, security-first legal practice management system and de
 ### Client Management & Secure Client Portal
 <table><tr>
 <td valign="top" width="50%"><img src="Assets/08-contacts.png" alt="Client Directory" width="100%"></td>
-<td valign="top" width="50%"><img src="Assets/09-client-detail.png" alt="Client Detail and Portal Invitation" width="100%"></td>
+<td valign="top" width="50%"><a href="Assets/09-client-detail.png"><img src="Assets/preview/09-client-detail.png" alt="Client Detail and Portal Invitation" width="100%"></a></td>
 </tr></table>
 <p align="center">
   <img src="Assets/12-client-portal.png" alt="Dedicated Secure Client Portal">
@@ -56,7 +58,7 @@ Stass is a comprehensive, security-first legal practice management system and de
 
 ### Regulatory Compliance, AML & Sanctions Screening
 <table><tr>
-<td valign="top" width="50%"><img src="Assets/10-compliance.png" alt="Compliance Workspace" width="100%"></td>
+<td valign="top" width="50%"><a href="Assets/10-compliance.png"><img src="Assets/preview/10-compliance.png" alt="Compliance Workspace" width="100%"></a></td>
 <td valign="top" width="50%"><img src="Assets/14-report-a-concern.png" alt="Confidential Concern Reporting" width="100%"></td>
 </tr></table>
 
@@ -65,11 +67,11 @@ Stass is a comprehensive, security-first legal practice management system and de
 
 ### Firm Governance, Policies & Interactive Knowledge Base
 <table><tr>
-<td valign="top" width="50%"><img src="Assets/11-hr-workspace.png" alt="HR Workspace" width="100%"></td>
+<td valign="top" width="50%"><a href="Assets/11-hr-workspace.png"><img src="Assets/preview/11-hr-workspace.png" alt="HR Workspace" width="100%"></a></td>
 <td valign="top" width="50%"><img src="Assets/13-policies-guidance.png" alt="Practice Policies and Guidance" width="100%"></td>
 </tr></table>
 <p align="center">
-  <img src="Assets/15-help-and-guides.png" alt="Help and Operational Guides">
+  <a href="Assets/15-help-and-guides.png"><img src="Assets/preview/15-help-and-guides.png" alt="Help and Operational Guides"></a>
 </p>
 
 - **HR Administration:** Private personnel records, staff leave tracking, lifecycle checks, confidential internal cases, and audited HR retention schedules.
